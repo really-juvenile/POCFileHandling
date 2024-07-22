@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCFileHandling", "POCFileHandling.csproj", "{9B378513-3AA5-4959-A52E-DA3EA1DF093D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B378513-3AA5-4959-A52E-DA3EA1DF093D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B378513-3AA5-4959-A52E-DA3EA1DF093D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B378513-3AA5-4959-A52E-DA3EA1DF093D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B378513-3AA5-4959-A52E-DA3EA1DF093D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72B71071-01FD-49D0-ADA0-B06A6F87907E}
+	EndGlobalSection
+EndGlobal
